@@ -1,3 +1,5 @@
 # Interactive-Shopping-List
-**index.html**
-**index.js**
+-index.html
+-style.css
+-script.js
+
